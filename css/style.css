@@ -1,0 +1,18 @@
+.caja-magica {
+    /* 1. Dimensiones */
+    width: 300px;
+    height: 150px;
+
+    /* 2. Colores y Fondo */
+    background-color: #f0f0f0; /* Gris claro */
+    color: #333;               /* Texto gris oscuro */
+
+    /* 3. El Modelo de Caja */
+    padding: 20px;            /* Espacio interno */
+    border: 2px solid blue;   /* Borde azul de 2px */
+    margin: 50px;             /* Espacio externo para alejarla de otros elementos */
+
+    /* 4. Tipografía */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
